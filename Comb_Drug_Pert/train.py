@@ -114,6 +114,12 @@ def main():
 
     data_path = './combo_sciplex_prep_hvg_filtered.h5ad'
 
+    try:
+        adata = sc.read(data_path)
+    except:
+        import gdown
+        gdown.download('https://drive.google.com/uc?export=download&id=1RRV0_qYKGTvD3oCklKfoZQFYqKJy4l6t',
+                    output=data_path, quiet=False)
     adata = sc.read(data_path)
     
     data_sizes = [5000, 10000, 15000, 20000]
