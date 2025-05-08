@@ -45,7 +45,7 @@ Run this command in the repository folder to check if pretrained models exist:
 
 ls -R | grep ".h5\|.h5ad\|.pt"
 
-
+## After installation
 Continue on a Jupiter notebook that you open through  anaconda on desktop, be sure to use the right kernel, choose it from the right 
 
-If you want to use the train.py (trains everysubsized dataset) and plot.py (you have to change the cell number one by one)
+If you want to use the train.py (trains every subsized dataset) and plot.py (you have to change the cell number one by one)
