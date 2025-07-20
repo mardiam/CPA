@@ -1,4 +1,5 @@
-combo_sciplex_prep_hvg_filtered.h5ad
+*.h5ad
 cpa_model*
 resized_data_*
 plots
+working
