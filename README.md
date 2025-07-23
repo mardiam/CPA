@@ -1,4 +1,4 @@
-# cpa-Predicting-combinatorial-drug-perturbations
+# CPA Training - Tahoe Dataset subsampling - Optuna Hyperparameter optimization
 
 
 ## Conda Environment
