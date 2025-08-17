@@ -89,13 +89,13 @@ Run on the anaconda prompt, in the cpa environment (conda activate cpa) the foll
 
 -Open [cpa_training_tahoe_on_cell_pred.ipynb](https://github.com/mardiam/CPA/blob/main/Tahoe/cpa_training_tahoe_on_cell_pred.ipynb)  
 -Activate CPA kernel
--If you didn't subsample download on the working directory the [dataset](https://drive.google.com/file/d/1AH-ijqwa7rFyuxGeuv3ywyChhxXEKWby/view?usp=sharing).  
--Train the model or use the pretrained model you can download [from google drive]()
+-If you didn't subsample download on the working directory the [dataset](https://drive.google.com/file/d/1b5CYpIefHb0F7rtb18xGAo6nWMhkT1tv/view?usp=sharing).  
+-Train the model or use the pretrained [model](https://drive.google.com/drive/folders/1eSDvd4uYj-Z4OEx6hS2ic9AGK5oseRAQ?usp=sharing) you can download [from google drive](https://drive.google.com/drive/folders/1j12kn3rub9R981nxr_lRFwZC-kNz5t00?usp=sharing)
 
 
 ### Predicting drug perturbations using RDKit embeddings for drugs
--Open [cpa_training_tahoe_with_RDkit.ipynb](https://github.com/mardiam/CPA/blob/main/Tahoe/cpa_training_tahoe_%20with_RDkit.ipynb).
+-Open [cpa_training_tahoe_with_RDkit.ipynb](https://github.com/mardiam/CPA/blob/main/Tahoe/cpa_training_tahoe_with_RDkit.ipynb).
 
 -Activate CPA kernel
 -If you didn't subsample download on the working directory the [dataset](https://drive.google.com/file/d/18l3hwc9QKg0YrxRpESREFH0kCfNFFdKH/view?usp=sharing).   
--Train the model or use the pretrained [model](https://drive.google.com/drive/folders/1zjlzA-Js-FmRaSAX-6Jw5-q--F8ZxeXq?usp=sharing) you can download [from google drive](https://drive.google.com/drive/folders/1j12kn3rub9R981nxr_lRFwZC-kNz5t00?usp=sharing).
+-Train the model or use the pretrained [model](https://drive.google.com/drive/folders/1usvseECp5DMJe6rZHEz4i0RKeeB-hDN6?usp=sharing) you can download [from google drive](https://drive.google.com/drive/folders/1j12kn3rub9R981nxr_lRFwZC-kNz5t00?usp=sharing).
